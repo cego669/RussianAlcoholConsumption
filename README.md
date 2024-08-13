@@ -16,7 +16,7 @@ The marketing team has sourced with **historical sales volumes per capita for se
 
 ## ✅ Solution proposed by this notebook
 
-This notebook includes an [**interactive data exploration**](https://cego669.github.io/RussianAlcoholConsumption/) where you can **easily compare alcohol consumption patterns between different regions of Russia**. As a solution to the business problem, the [Dynamic Time Warping (DTW)](https://en.wikipedia.org/wiki/Dynamic_time_warping) technique was used to calculate the distance between time series of the same drink from different regions. In this way, using [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis), **it was possible to project the distances between all regions on a plane**, where **it is easy to visualize the regions most similar to Saint Petersburg in terms of alcohol consumption pattern**.
+This notebook ([github page here](https://cego669.github.io/RussianAlcoholConsumption/)) includes an **interactive data exploration** where you can **easily compare alcohol consumption patterns between different regions of Russia**. As a solution to the business problem, the [Dynamic Time Warping (DTW)](https://en.wikipedia.org/wiki/Dynamic_time_warping) technique was used to calculate the distance between time series of the same drink from different regions. In this way, using [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis), **it was possible to project the distances between all regions on a plane**, where **it is easy to visualize the regions most similar to Saint Petersburg in terms of alcohol consumption pattern**.
 
 ## License
 
